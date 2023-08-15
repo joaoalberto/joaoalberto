@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaoalberto
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning python
+- 👀 I’m interested in new technologies
+- 🌱 I’m currently learning python, sqlite, ...
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me on GitHub
 
